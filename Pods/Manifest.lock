@@ -1,0 +1,19 @@
+PODS:
+  - AMap2DMap (3.2.0)
+  - AMapSearch (3.2.0)
+  - HMNSObject-Log (0.0.1)
+  - MJExtension (3.0.10)
+
+DEPENDENCIES:
+  - AMap2DMap
+  - AMapSearch
+  - HMNSObject-Log
+  - MJExtension
+
+SPEC CHECKSUMS:
+  AMap2DMap: 02c73a3e55ac033e3b0b8ec35d3d21ffcac5aae3
+  AMapSearch: a885f0702578a441a22cb66fa74f8918c6d19e6f
+  HMNSObject-Log: f3852e253594f301a2bd51e1d8fdf40fb08f909d
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+
+COCOAPODS: 0.39.0
